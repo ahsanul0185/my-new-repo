@@ -1,2 +1,3 @@
 Hey there, I am Ahsanul & I am learning git and github.
 I am from Bangladesh.
+I had done my HSC in 2023
